@@ -24,4 +24,5 @@
 - Commit your changes :  
 `git commit -am 'commit'`   
 - Push to Github :   
+`git add .`   
 `git push`
