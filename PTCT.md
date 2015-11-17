@@ -17,6 +17,8 @@
 - Go to settings on github and SSH Keys
 - Clone your new repository :   
 `git clone 'git@github.com:aldoridhoni/Hello-World.git'`   
+- Move to the newly created git folder : 
+`cd [folder_name]`   
 - Create a new file and add a content :   
 `vim PTCT.md` atau edit di editor koding.com
 - Commit your changes :  
