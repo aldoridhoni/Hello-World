@@ -6,6 +6,11 @@
 - Create modification.
 - Push commit.
 
+## Create repository
+- Create new repository in github.  
+
+
+
 ## Code
 - Generate ssh key :   
 `ssh-keygen`
@@ -26,3 +31,7 @@
 `git commit -am 'commit'`   
 - Push to Github :   
 `git push`
+
+
+## Fork a repository
+- Fork this repo ! : In the top-right corner of the page, click Fork. 
