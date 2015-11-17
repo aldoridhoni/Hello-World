@@ -10,8 +10,8 @@
 - Generate ssh key :   
 `ssh-keygen`
 - Add git configuration :   
-`git config --global user.name 'Aldo Ridhoni'   
-`git congif --global user.email 'email@domain.com'   
+`git config --global user.name 'Aldo Ridhoni'`   
+`git congif --global user.email 'email@domain.com'`   
 - Copy public key to github :   
 `cat .ssh/id_rsa.pub`   
 - Go to settings on github and SSH Keys
