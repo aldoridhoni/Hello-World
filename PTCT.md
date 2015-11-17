@@ -22,7 +22,7 @@
 - Create a new file and add a content :   
 `vim PTCT.md` atau edit di editor koding.com
 - Commit your changes :  
+`git add .` 
 `git commit -am 'commit'`   
 - Push to Github :   
-`git add .`   
 `git push`
